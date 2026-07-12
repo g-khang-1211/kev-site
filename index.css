@@ -1,0 +1,81 @@
+:root {
+    --primary-color: #2563EB;
+    --secondary-color: #0F172A;
+    --tetriary-color: #BC4800;
+    --secondary-color: #F1F5F9;
+    --neutral-color: #F8F3FC;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Hanken Grotesk', 'Source Serif 4', 'JetBrains Mono', sans-serif;
+    background-color: var(--neutral-color);
+    scroll-behavior: smooth;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+hr {
+    width: 90%;
+    margin: 10px auto;
+}
+
+/* Navigation bar */
+nav {
+    font-family: 'Hanken Grotesk', sans-serif;
+    display: flex;
+    padding: 20px 40px;
+    font-size: 20px;
+}
+
+.logo {
+    color: black;
+    font-weight: bold;
+    text-decoration: italic;
+}
+
+.nav-links {
+    display: flex;
+    margin-left: auto;
+    gap: 30px;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-style: italic;
+    font-weight: 600;
+    color: black;
+}
+
+
+/* Hero section */
+.hero {
+    font-family: 'Source Serif 4', sans-serif;
+    display: flex;
+    padding: 0 40px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: 650;
+    text-align: center;
+    
+    margin: 50px 0;
+}
+
+.intro-title {
+    font-size: 100px;
+    font-style: italic;
+}
+
+.intro-text {
+    font-size: 34px;
+    margin-top: 10px;
+}
+
+
+/* Projects */
