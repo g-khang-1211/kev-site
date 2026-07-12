@@ -67,6 +67,13 @@ nav {
     margin: 50px 0;
 }
 
+.pfp {
+    width: 180px;        /* Adjust size as needed */
+    height: 180px;
+    border-radius: 50%;  /* Makes the profile picture circular */
+    object-fit: cover;   /* Prevents the image from stretching */
+}
+
 .intro-title {
     font-size: 100px;
     font-style: italic;
