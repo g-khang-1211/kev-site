@@ -4,7 +4,7 @@ my own personal website that pretty much acts like my portfolio :D
 this is made for myself and as part of a project for [Stardance Hackclub](https://stardance.hackclub.com/)
 
 ## what's included in the website❓
-- **About me*:** A brief introduction about me
+- **About me:** A brief introduction about me
 - **Projects:** An outlined version of all my past works i've done
 - **Contacts:** Links to my socials
 
