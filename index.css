@@ -99,12 +99,12 @@ nav {
     /* max-width: 1800px;*/
     margin: 40px auto;        
     padding: 0 60px;      
-    font-family: 'Hanken Grotesk', sans-serif;
+    font-family: 'Source Serif 4', sans-serif;
 }
 
 .projects-wrapper h2 {
     font-style: italic;
-    font-size: 32px;
+    font-size: 40px;
     margin-bottom: 25px;
     text-align: center;
 }
@@ -163,3 +163,31 @@ nav {
     object-fit: cover;  
 }
 
+
+/* Contacts */
+.contact-wrapper {
+    margin: 40px auto;
+    padding: 0 60px;
+}
+
+.contact-wrapper p {
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'Source Serif 4', sans-serif;
+    font-style: italic; 
+}
+
+.socials-list {
+    display: flex;
+    gap: 40px;
+    margin: 10px auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.social {
+    object-fit: cover;
+    height: 70px;
+    width: 70px;
+}
