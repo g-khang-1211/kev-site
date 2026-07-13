@@ -8,4 +8,8 @@ this is made for myself and as part of a project for [Stardance Hackclub](https:
 - **Projects:** An outlined version of all my past works i've done
 - **Contacts:** Links to my socials
 
+## Built with:
+- **HTML:** for the website structure and contents
+- **CSS:** for the styling and designs
+
 want to see it for yourself? Visit https://g-khang-1211.github.io/kev-site/
